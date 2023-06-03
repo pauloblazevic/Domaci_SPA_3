@@ -1,0 +1,5 @@
+﻿  DijkstraShortestPath.cpp
+C:\Users\Paulo\Desktop\SPA3\SPA_3\SPA_3\DijkstraShortestPath.cpp(107,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  SPA_3.vcxproj -> C:\Users\Paulo\Desktop\SPA3\SPA_3\x64\Debug\SPA_3.exe
